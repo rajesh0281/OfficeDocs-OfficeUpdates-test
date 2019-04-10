@@ -33,7 +33,7 @@ To find release notes, see [Insider release notes for Office for Windows desktop
 [//]: # (DO NOT REMOVE)
 
 **April 10, 2019**<br/>
-Version 1905 (Build 12345.10103)<br/>
+Version 1905 (Build 12345.10105)<br/>
 
 **April 1, 2019**<br/> 
 Version 1904 (Build 11527.20004)<br/>
