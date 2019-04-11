@@ -29,13 +29,9 @@ If you're enrolled in the Insider level you get frequent updates with new featur
 
 To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/en-us/OfficeUpdates/release-notes-office-insider).
 
-
 [//]: # (DO NOT REMOVE)
 
-**April 10, 2019**<br/>
-Version 1904 (Build 11527.20004)<br/>
-
-**April 1, 2019**<br/> 
+**April 11, 2019**<br/>
 Version 1904 (Build 11527.20004)<br/>
 
 **March 18, 2019**<br/> 
